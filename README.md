@@ -1,1 +1,3 @@
-# SECP1513
+# Reflection for each assignment and project
+## Assignment 1
+### From this virtual industry visit to AirAsia, we explored its transformation from a traditional airline into a super app integrating travel, logistics, and financial services. AirAsia emphasizes that no ‘Sir’ culture and remote work practices promoting equality and productivity. AirAsia have highlight that a positive attitude, willingness to learn, perseverance and passion are essential qualities for employees. All in all, I will apply these qualities to my working mindset, actively learn in the ICT field and meet the standards of ICT related.
